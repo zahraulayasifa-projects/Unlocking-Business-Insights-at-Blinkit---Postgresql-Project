@@ -54,4 +54,4 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 
 ---
 
-> Designed to support strategic analysis through Power BI to enhance Blinkit’s operational efficiency and customer satisfaction 🚀
+> Designed to support strategic analysis through Postgresql to enhance Blinkit’s operational efficiency and customer satisfaction 🚀
